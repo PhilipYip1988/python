@@ -44,9 +44,9 @@
 <p>Previous versions of Python Distributions should be uninstalled. For more details see:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://dellwindowsreinstallationguide.com/windows-uninstall-anaconda/","type":"wp-embed","providerNameSlug":"windows-11-installation-guides"} -->
+<!-- wp:embed {"url":"https://github.com/PhilipYip1988/python/blob/main/mambaforge-windows-purge.md"} -->
 <figure class="wp-block-embed is-type-wp-embed is-provider-windows-11-installation-guides wp-block-embed-windows-11-installation-guides"><div class="wp-block-embed__wrapper">
-https://dellwindowsreinstallationguide.com/windows-uninstall-anaconda/
+[https://dellwindowsreinstallationguide.com/windows-uninstall-anaconda/](https://github.com/PhilipYip1988/python/blob/main/mambaforge-windows-purge.md)
 </div></figure>
 <!-- /wp:embed -->
 
