@@ -44,7 +44,7 @@
 <p>Previous versions of Python Distributions should be uninstalled. For more details see:</p>
 <!-- /wp:paragraph -->
 
-![Uninstalling and Purging Old Python Installations](https://github.com/PhilipYip1988/python/blob/main/mambaforge-windows-purge.md)
+[Uninstalling and Purging Old Python Installations](https://github.com/PhilipYip1988/python/blob/main/mambaforge-windows-purge.md)
 
 <!-- wp:paragraph -->
 <p>Skip uninstallation if already on a clean install of Windows.</p>
